@@ -1,0 +1,4 @@
+/home/renzo/Desktop/repo/lab4_ak2/CMakeFiles/rebuild_cache.dir
+/home/renzo/Desktop/repo/lab4_ak2/CMakeFiles/add.dir
+/home/renzo/Desktop/repo/lab4_ak2/CMakeFiles/edit_cache.dir
+/home/renzo/Desktop/repo/lab4_ak2/CMakeFiles/main.dir
